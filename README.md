@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Most of my work is done on GitLab at https://gitlab.com/codydbentley
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codydbentley)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **codydbentley/codydbentley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
