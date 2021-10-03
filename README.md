@@ -2,6 +2,10 @@
 
 Most of my work is done on GitLab at https://gitlab.com/codydbentley
 
+WakaTime:
+
+[![Wails](https://wakatime.com/badge/github/codydbentley/wails.svg)](https://wakatime.com/badge/github/codydbentley/wails)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codydbentley&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codydbentley&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
