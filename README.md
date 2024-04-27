@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Most of my work is done on GitLab at https://gitlab.com/codydbentley
-
 [![wakatime](https://wakatime.com/badge/user/b2516f8f-450a-4a70-bc4c-9b95058ac336.svg)](https://wakatime.com/@b2516f8f-450a-4a70-bc4c-9b95058ac336)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codydbentley&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
